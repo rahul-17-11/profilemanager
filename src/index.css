@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Share+Tech&family=Share+Tech+Mono&display=swap");
+* {
+  font-family: "Share Tech", sans-serif;
+  font-size: large;
+}
+@import "tailwindcss";
